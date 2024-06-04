@@ -1,0 +1,1 @@
+Hostel Management System (HMS) stands as a very vital solution that will benefit both students and administrative bodies of NSUT. Currently, the management of hostel-related activities relies on manual and Out-of-date tech processes. This software aims to streamline and modernize these operations.
